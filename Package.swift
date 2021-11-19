@@ -8,11 +8,13 @@ let package = Package(
     ],
     products: [
         .library(name: "AWSCognitoAuth", targets: ["AWSCognitoAuth"]),
-        .library(name: "AWSCore", targets: ["AWSCore"])
+        .library(name: "AWSCore", targets: ["AWSCore"]),
+        .library(name: "AWSCognitoIdentityProviderASF", targets: ["AWSCognitoIdentityProviderASF"])
     ],
     targets: [
         .binaryTarget(name: "AWSCognitoAuth", path: "AWSCognitoAuth.xcframework"),
-        .binaryTarget(name: "AWSCore", path: "AWSCore.xcframework")
+        .binaryTarget(name: "AWSCore", path: "AWSCore.xcframework"),
+        .binaryTarget(name: "AWSCognitoIdentityProviderASF", path: "AWSCognitoIdentityProviderASF.xcframework")
     ]
 )
 
