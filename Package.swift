@@ -10,7 +10,7 @@ let package = Package(
         .library(name: "AWSCognitoAuth", targets: ["AWSCognitoAuth"])
     ],
     targets: [
-        .binaryTarget(name: "AWSCognitoAuth", path: "AWSCognitoAuth.framework")
+        .binaryTarget(name: "AWSCognitoAuth", path: "AWSCognitoAuth.xcframework")
     ]
 )
 
