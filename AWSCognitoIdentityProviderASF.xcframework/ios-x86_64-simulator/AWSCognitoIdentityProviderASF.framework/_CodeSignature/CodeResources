@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/AWSCognitoIdentityProviderASF.h</key>
 		<data>
-		r/Kph3h7YdrmY8vLx5+oB822Uzs=
+		gzt3Z1XKugToVWf64iCy1GPZTgE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		moCXopkfFT2tkskXU0CFsn8PXWs=
+		VbRj8/qkkb5gKSW2WT0Zv3mRwic=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -23,11 +23,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r/Kph3h7YdrmY8vLx5+oB822Uzs=
+			gzt3Z1XKugToVWf64iCy1GPZTgE=
 			</data>
 			<key>hash2</key>
 			<data>
-			2o4DXEzsWuL/e1AAfTCehDenhL2i2C7gnjKHcP6AOmo=
+			IgR9y8wcdmtG8kHSSl7MvqpHsiWT755FcvROoa6RBf8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

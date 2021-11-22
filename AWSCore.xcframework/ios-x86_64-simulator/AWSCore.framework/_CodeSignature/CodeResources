@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/AWSCategory.h</key>
 		<data>
-		hQcdIPnNuUvKlMVX8mFmbh53mD8=
+		kJhOCmuA18AtViJgoahrnu5GlD4=
 		</data>
 		<key>Headers/AWSClientContext.h</key>
 		<data>
@@ -34,27 +34,27 @@
 		</data>
 		<key>Headers/AWSCognitoIdentity.h</key>
 		<data>
-		1i4Ep2fMPtxnNfAIOybY9SGpJZE=
+		qT37KJnquvclha0JGcelDjvIDzw=
 		</data>
 		<key>Headers/AWSCognitoIdentityModel.h</key>
 		<data>
-		vPf+bjzJr2DrD/uMYGlR0ET863Q=
+		EgqeDZj8Gf0DhjUi4jyYq7JV0e8=
 		</data>
 		<key>Headers/AWSCognitoIdentityResources.h</key>
 		<data>
-		4jHUKDWLt9JUgGNQ0jSWBIZ05EQ=
+		heXWb1EwVr4WIcpE5KNpoUEb6G8=
 		</data>
 		<key>Headers/AWSCognitoIdentityService.h</key>
 		<data>
-		9ImdCnq8iF5hOlKILQEUcg5PfPY=
+		SV8eyMv25ClBgU+unsexbX3qPFo=
 		</data>
 		<key>Headers/AWSCore.h</key>
 		<data>
-		cbJGH4KPCaxvARwL2qpPLNo8Sy8=
+		uxCW4mkTdZ/SduSx/lNa4KnJmGg=
 		</data>
 		<key>Headers/AWSCredentialsProvider.h</key>
 		<data>
-		054KqKBV2mPblejsJ5nPSiFpT9A=
+		LDV/jjtmCpmBHCIPdku8tkvO1/4=
 		</data>
 		<key>Headers/AWSDDASLLogCapture.h</key>
 		<data>
@@ -92,9 +92,13 @@
 		<data>
 		EoJ4hmMfKu001vdTBlccu7SpF2Q=
 		</data>
+		<key>Headers/AWSFMDB+AWSHelpers.h</key>
+		<data>
+		9gIDuO+2aSLj6yF25XsqI6zZRqM=
+		</data>
 		<key>Headers/AWSFMDB.h</key>
 		<data>
-		31/Yr9sETovr4I9m0eBtr2+gj0M=
+		OV8isdVvR71I5eePzhdpp5XyXBM=
 		</data>
 		<key>Headers/AWSFMDatabase.h</key>
 		<data>
@@ -126,11 +130,11 @@
 		</data>
 		<key>Headers/AWSIdentityProvider.h</key>
 		<data>
-		pSwshd7/IzSzpJIBbqIG4cq3qw8=
+		DaYDzBUtx2tFw7jFANNGEIOjtyo=
 		</data>
 		<key>Headers/AWSInfo.h</key>
 		<data>
-		qcm3TzaIlfVfd1mmo9ZLAf1PUic=
+		i81GReBW2FqDSbrB3mtsnQ+fRjw=
 		</data>
 		<key>Headers/AWSKSReachability.h</key>
 		<data>
@@ -166,27 +170,35 @@
 		</data>
 		<key>Headers/AWSModel.h</key>
 		<data>
-		WmoJ3r4R4bKQOmaNuWXizzOKR2A=
+		nm6hkZoHRIMkMj6pX971lsTGCd4=
+		</data>
+		<key>Headers/AWSNSCodingUtilities.h</key>
+		<data>
+		m9xmaCX0l7fadThP5UeSGvuzv2o=
 		</data>
 		<key>Headers/AWSNetworking.h</key>
 		<data>
-		AIJxknMsLXN/QpsM/H4tUn84NO8=
+		X+YwEHdt/HmGOCzk8Ov9G/yHIvM=
+		</data>
+		<key>Headers/AWSNetworkingHelpers.h</key>
+		<data>
+		2Ht2nkCC5h/YGg0A0nhNtTasP4Q=
 		</data>
 		<key>Headers/AWSSTS.h</key>
 		<data>
-		lgioa9tCNSi+UjV3bOqCT/y2otI=
+		S545VVMTScjdHQQroicGON2xjSg=
 		</data>
 		<key>Headers/AWSSTSModel.h</key>
 		<data>
-		sb+rSpUazL1b87aF/HmjrnNBnbk=
+		mERgwHdnzlqIq0dPv80UGY/CwWQ=
 		</data>
 		<key>Headers/AWSSTSResources.h</key>
 		<data>
-		MVAz9xkAxNmwM60mtosYHCiO8OM=
+		pAOVA9eu8qHZXZKeDQtqZnJMp4o=
 		</data>
 		<key>Headers/AWSSTSService.h</key>
 		<data>
-		1jN9BVCPRstiHlzN8nNtgMfW678=
+		zj6/37l5EcxUJTLze2ZGfRrrPoc=
 		</data>
 		<key>Headers/AWSSerialization.h</key>
 		<data>
@@ -194,39 +206,31 @@
 		</data>
 		<key>Headers/AWSService.h</key>
 		<data>
-		HvuAbSklui7k37sUuBRFWcs7hns=
+		0NFu1VzZt6gkMEb4//3Qh3gN4Zk=
 		</data>
 		<key>Headers/AWSServiceEnum.h</key>
 		<data>
-		BPxacICN+YwaRqCMBR9zA6D+3Uc=
+		Y4WVHsQFBMmahLS4U+MdwAY7FAQ=
 		</data>
 		<key>Headers/AWSSignature.h</key>
 		<data>
-		7vkmvSn4GmvMhOhmYwiVnuGdvYw=
+		xa+/P+oRl0s6PdusVay7+v6TluE=
 		</data>
 		<key>Headers/AWSSynchronizedMutableDictionary.h</key>
 		<data>
 		/O8zJxujzk0Sy4CMJ8yfyU/J3ok=
 		</data>
-		<key>Headers/AWSTMCache.h</key>
-		<data>
-		avPrn+D9PYq72e3qeklTCtEGC40=
-		</data>
-		<key>Headers/AWSTMDiskCache.h</key>
-		<data>
-		XhOjSXl+DMZPnzPYYsdItews5Qc=
-		</data>
-		<key>Headers/AWSTMMemoryCache.h</key>
-		<data>
-		yI6TEHQvQBfyyC+4GGLfjRuFSEQ=
-		</data>
 		<key>Headers/AWSTask.h</key>
 		<data>
-		5yEO7HKrgKPwD/21GJff9gtsg24=
+		jQ59qk23am+rFt0J+skBmOIzaJw=
 		</data>
 		<key>Headers/AWSTaskCompletionSource.h</key>
 		<data>
 		5fCVVnXk9QxccQpZ67tGtlJp7F0=
+		</data>
+		<key>Headers/AWSTimestampSerialization.h</key>
+		<data>
+		SwC4TcgyPJPt/5nuSBefjwFOnsc=
 		</data>
 		<key>Headers/AWSUICKeyChainStore.h</key>
 		<data>
@@ -238,7 +242,7 @@
 		</data>
 		<key>Headers/AWSURLRequestSerialization.h</key>
 		<data>
-		rKOFaHN+48rWs4RmopfoIzUPGEE=
+		FS7Uhd8+3uPnGMG0XOUhnxoO4W4=
 		</data>
 		<key>Headers/AWSURLResponseSerialization.h</key>
 		<data>
@@ -251,6 +255,10 @@
 		<key>Headers/AWSValidation.h</key>
 		<data>
 		3b7MgHDXqpBnNoFPyN+gya0wq4U=
+		</data>
+		<key>Headers/AWSXMLDictionary.h</key>
+		<data>
+		JIYMpgcYXx92O6QKyAFj5bRzgK8=
 		</data>
 		<key>Headers/NSArray+AWSMTLManipulationAdditions.h</key>
 		<data>
@@ -274,7 +282,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FeLSy6Bmd76KOFeYFviC0C+QiZA=
+		GHVkOijusm7g+O3jzFbYp2+aXw4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -335,11 +343,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hQcdIPnNuUvKlMVX8mFmbh53mD8=
+			kJhOCmuA18AtViJgoahrnu5GlD4=
 			</data>
 			<key>hash2</key>
 			<data>
-			BGfmIVRH/djwv2Nx2fVxzmot+4ITPoo9YVy7VrkStQc=
+			Jkunh7T2Q94QVIV048EDal2V48zYDbHfYKZvLnK7ymw=
 			</data>
 		</dict>
 		<key>Headers/AWSClientContext.h</key>
@@ -368,66 +376,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1i4Ep2fMPtxnNfAIOybY9SGpJZE=
+			qT37KJnquvclha0JGcelDjvIDzw=
 			</data>
 			<key>hash2</key>
 			<data>
-			X5ykrIoePgCQ3GpgHUdu8Qq7KeADpSPkpSO2SSFfoNc=
+			gXLnCrvb8N5ESJ0MKp5ow4nfsjDn3JOPZvYdGEiIMMw=
 			</data>
 		</dict>
 		<key>Headers/AWSCognitoIdentityModel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vPf+bjzJr2DrD/uMYGlR0ET863Q=
+			EgqeDZj8Gf0DhjUi4jyYq7JV0e8=
 			</data>
 			<key>hash2</key>
 			<data>
-			oBmcxHMKKD5j/XW0P3OulNOG29MO2DpF1VtfOmuA1ek=
+			Cmk5JZdmbEoW5btnKX7zcVasDXAFac7d5EWvLtVSzLQ=
 			</data>
 		</dict>
 		<key>Headers/AWSCognitoIdentityResources.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4jHUKDWLt9JUgGNQ0jSWBIZ05EQ=
+			heXWb1EwVr4WIcpE5KNpoUEb6G8=
 			</data>
 			<key>hash2</key>
 			<data>
-			jRN5nHuNadqKnIFYlEmGNYukm0r8o2HwfxgWwX/VDwY=
+			1oMKHmEFPOnxgOR/yJQ3ioByGCYPPnBB7Xfz1rw10pU=
 			</data>
 		</dict>
 		<key>Headers/AWSCognitoIdentityService.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9ImdCnq8iF5hOlKILQEUcg5PfPY=
+			SV8eyMv25ClBgU+unsexbX3qPFo=
 			</data>
 			<key>hash2</key>
 			<data>
-			1gP+yjjFXeQyZ2NtjZYdWdXeFEM3mCALUx93ibVRnYA=
+			vfyp1dAgTolijg3MnudTsfiube2YF+4laNiKzzvddwA=
 			</data>
 		</dict>
 		<key>Headers/AWSCore.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cbJGH4KPCaxvARwL2qpPLNo8Sy8=
+			uxCW4mkTdZ/SduSx/lNa4KnJmGg=
 			</data>
 			<key>hash2</key>
 			<data>
-			qXSyEYOmjlsHDwPuU7EGy2qzm8im5VbUKS03tHk4hzw=
+			cY3YLxPA9+lZZm+TaEUJH3UD4mNOoxRZ8mUMXZ/qQ2A=
 			</data>
 		</dict>
 		<key>Headers/AWSCredentialsProvider.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			054KqKBV2mPblejsJ5nPSiFpT9A=
+			LDV/jjtmCpmBHCIPdku8tkvO1/4=
 			</data>
 			<key>hash2</key>
 			<data>
-			CRr1p9vhgeBlqw2b4VYemKkwiQDGg6GzIj0mLj+U2/Y=
+			0eTJLGN87RTNRpPwisKPcLk3tqpAd71IOFjTtKKT5Z0=
 			</data>
 		</dict>
 		<key>Headers/AWSDDASLLogCapture.h</key>
@@ -529,15 +537,26 @@
 			H+X4tXDFwq3Fd1YN1E0ujcL1HlhgkaX1D/ntFEcBPpY=
 			</data>
 		</dict>
+		<key>Headers/AWSFMDB+AWSHelpers.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9gIDuO+2aSLj6yF25XsqI6zZRqM=
+			</data>
+			<key>hash2</key>
+			<data>
+			a54naDszm/k/8WaFEDBoDU802uayVSudWwZ+dgPlFT4=
+			</data>
+		</dict>
 		<key>Headers/AWSFMDB.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			31/Yr9sETovr4I9m0eBtr2+gj0M=
+			OV8isdVvR71I5eePzhdpp5XyXBM=
 			</data>
 			<key>hash2</key>
 			<data>
-			h55jwWLg+ux+xifIWlj0/5OD3IZP0v/Qd/BTG44ZXXI=
+			SAPAU/qyUX/F2MUp5uBCTgUZWxFcqcBDcxpMYE/S4GA=
 			</data>
 		</dict>
 		<key>Headers/AWSFMDatabase.h</key>
@@ -621,22 +640,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pSwshd7/IzSzpJIBbqIG4cq3qw8=
+			DaYDzBUtx2tFw7jFANNGEIOjtyo=
 			</data>
 			<key>hash2</key>
 			<data>
-			3uT7LT2NraGdon9y7IkPkQIMNRVzH6REC9pD2oEpOKI=
+			U8L/ndH0h8Aqvxoztfr0BSMoDIQY707igiKW3q1ZP8U=
 			</data>
 		</dict>
 		<key>Headers/AWSInfo.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qcm3TzaIlfVfd1mmo9ZLAf1PUic=
+			i81GReBW2FqDSbrB3mtsnQ+fRjw=
 			</data>
 			<key>hash2</key>
 			<data>
-			i54uzUYwHw8zW/SKc7MdjT+fo4QTq6TOoj7NbbGYpoY=
+			BgHd1O8RA1UsWuaYdrMu4XiqxPEP4eAN86RR5hxLP6Q=
 			</data>
 		</dict>
 		<key>Headers/AWSKSReachability.h</key>
@@ -731,66 +750,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WmoJ3r4R4bKQOmaNuWXizzOKR2A=
+			nm6hkZoHRIMkMj6pX971lsTGCd4=
 			</data>
 			<key>hash2</key>
 			<data>
-			apPYdQaxjgAzUOdp/HQGH/AHs36X8VX8FnxXYTnxPSo=
+			a6+z2i41Fr2A8E4Q76I2+CQ9tGBBqJQTJct4EkAse7M=
+			</data>
+		</dict>
+		<key>Headers/AWSNSCodingUtilities.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m9xmaCX0l7fadThP5UeSGvuzv2o=
+			</data>
+			<key>hash2</key>
+			<data>
+			Zvw5o9BQqfk4js3b379DM/nmocYHwBtEJF0QNr04Z7U=
 			</data>
 		</dict>
 		<key>Headers/AWSNetworking.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AIJxknMsLXN/QpsM/H4tUn84NO8=
+			X+YwEHdt/HmGOCzk8Ov9G/yHIvM=
 			</data>
 			<key>hash2</key>
 			<data>
-			pgM59kERr02n+ooiw6nA2cfz5Ky3o7+HTpPmJIhBk5s=
+			Ttcuq1jmJQ24PgA+XROQ6nPxYQbU6HueHRWnG7wWloA=
+			</data>
+		</dict>
+		<key>Headers/AWSNetworkingHelpers.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2Ht2nkCC5h/YGg0A0nhNtTasP4Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			osaFtC+/5MZcngl/Q+KtOFDlaJPu16Hl3D8X7BOnR5g=
 			</data>
 		</dict>
 		<key>Headers/AWSSTS.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lgioa9tCNSi+UjV3bOqCT/y2otI=
+			S545VVMTScjdHQQroicGON2xjSg=
 			</data>
 			<key>hash2</key>
 			<data>
-			PYzQdXh3GLgLzaYIxAGtExx5UQ3nfBpECq0jrpJnQAw=
+			4DbD2KgH2a6DJ8OPInPAN+mV262uBYRIP+bRf7Mgfqk=
 			</data>
 		</dict>
 		<key>Headers/AWSSTSModel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sb+rSpUazL1b87aF/HmjrnNBnbk=
+			mERgwHdnzlqIq0dPv80UGY/CwWQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			TT0jpCmXBriR+29xC6TRaCQBzufh+c6W6m2o7W+x3Vc=
+			2ll+ZBR/AIdKBb+gi+rUxdmsGS1HJ0BQwWkZVrIHIu4=
 			</data>
 		</dict>
 		<key>Headers/AWSSTSResources.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MVAz9xkAxNmwM60mtosYHCiO8OM=
+			pAOVA9eu8qHZXZKeDQtqZnJMp4o=
 			</data>
 			<key>hash2</key>
 			<data>
-			4hbg/MmXWh/3bvOioJXwO2CkjRIVEPP1U/yGWWhEzMs=
+			bwfl6qspOHFr0iAp6rnKPi8IjVtDFnVsaLoR+h9O2pk=
 			</data>
 		</dict>
 		<key>Headers/AWSSTSService.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1jN9BVCPRstiHlzN8nNtgMfW678=
+			zj6/37l5EcxUJTLze2ZGfRrrPoc=
 			</data>
 			<key>hash2</key>
 			<data>
-			VZaLI3jiLwJtTXN7KbTDdhqTsbYVop1So2oZrm4fopM=
+			uNxoGrR2EOJKi1sRzXJkrXALgW5xl52XfX5jrFPJJvk=
 			</data>
 		</dict>
 		<key>Headers/AWSSerialization.h</key>
@@ -808,33 +849,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HvuAbSklui7k37sUuBRFWcs7hns=
+			0NFu1VzZt6gkMEb4//3Qh3gN4Zk=
 			</data>
 			<key>hash2</key>
 			<data>
-			YQyC1XCFj6VqG55ZytCq48Avl3/aRU4wudl9tQq959M=
+			2lZMKmROJMkCrroDrigCnx3M9QONh+fUCyqamrUjXog=
 			</data>
 		</dict>
 		<key>Headers/AWSServiceEnum.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BPxacICN+YwaRqCMBR9zA6D+3Uc=
+			Y4WVHsQFBMmahLS4U+MdwAY7FAQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			sYgS7oSq4+bX8EHvXpG+sfVyHJ19PGHxyghJijQkJBs=
+			97B75d70JEotPyjlTB7flrrEnUKlSSqdJ1LzF/f6fQ8=
 			</data>
 		</dict>
 		<key>Headers/AWSSignature.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7vkmvSn4GmvMhOhmYwiVnuGdvYw=
+			xa+/P+oRl0s6PdusVay7+v6TluE=
 			</data>
 			<key>hash2</key>
 			<data>
-			HbECNrF/nRDTdR++scIA8POBMDuAFX3XXWs5OZlOanM=
+			QjF7BLr4mTKpXYiYPODSmcp+1n8GwBhoExy6ao6xze8=
 			</data>
 		</dict>
 		<key>Headers/AWSSynchronizedMutableDictionary.h</key>
@@ -848,48 +889,15 @@
 			wcJff6WPkndBfucYY+3PYOIAGbP0wa95PMZzN94+J4k=
 			</data>
 		</dict>
-		<key>Headers/AWSTMCache.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			avPrn+D9PYq72e3qeklTCtEGC40=
-			</data>
-			<key>hash2</key>
-			<data>
-			BnyIFATxY6+xYxlKdz+mEgR4cwtl11LgG2tOjmgKTZY=
-			</data>
-		</dict>
-		<key>Headers/AWSTMDiskCache.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XhOjSXl+DMZPnzPYYsdItews5Qc=
-			</data>
-			<key>hash2</key>
-			<data>
-			4c8QbikX+KmjGiAYoGhWzQVC+6pjRkd3Cr9dBp54ANU=
-			</data>
-		</dict>
-		<key>Headers/AWSTMMemoryCache.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yI6TEHQvQBfyyC+4GGLfjRuFSEQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			2C7Fqk1H10/o22XTqGFX9kZxSLd09Mv6HTJnvejdcME=
-			</data>
-		</dict>
 		<key>Headers/AWSTask.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5yEO7HKrgKPwD/21GJff9gtsg24=
+			jQ59qk23am+rFt0J+skBmOIzaJw=
 			</data>
 			<key>hash2</key>
 			<data>
-			5gba/LsnhMK4NRUVOaxHDGeKN+Fz0eefiaPn55cWC6I=
+			GMKyEQvC0mhPMECvzhrLfDzKFdby660vJZEBZBXY9vI=
 			</data>
 		</dict>
 		<key>Headers/AWSTaskCompletionSource.h</key>
@@ -901,6 +909,17 @@
 			<key>hash2</key>
 			<data>
 			MkylcxUUugZ7ePJcUladoODdcOrgbEdCaeGiCnXDxBM=
+			</data>
+		</dict>
+		<key>Headers/AWSTimestampSerialization.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SwC4TcgyPJPt/5nuSBefjwFOnsc=
+			</data>
+			<key>hash2</key>
+			<data>
+			SlfBvau7TKi0SiKF1GBQgm9hCV7yOsdE/oonWnySmjU=
 			</data>
 		</dict>
 		<key>Headers/AWSUICKeyChainStore.h</key>
@@ -929,11 +948,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rKOFaHN+48rWs4RmopfoIzUPGEE=
+			FS7Uhd8+3uPnGMG0XOUhnxoO4W4=
 			</data>
 			<key>hash2</key>
 			<data>
-			lM/t6dGaByXTSuy7lNi0DmI+8yLWNHp32618/hZUDxw=
+			/7v0J8K1ozIzAGDEtyp+9gN19d6gJV4eZxDbc1ACjPs=
 			</data>
 		</dict>
 		<key>Headers/AWSURLResponseSerialization.h</key>
@@ -967,6 +986,17 @@
 			<key>hash2</key>
 			<data>
 			DYNm7En3IYlZgDjW+v/cgSnBkBzoL4oCcFQyw5gZ/n8=
+			</data>
+		</dict>
+		<key>Headers/AWSXMLDictionary.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JIYMpgcYXx92O6QKyAFj5bRzgK8=
+			</data>
+			<key>hash2</key>
+			<data>
+			74Y8gk/tQoDR3o4sU4otdwNUZJ7RmEzoJznEgd2Kn6E=
 			</data>
 		</dict>
 		<key>Headers/NSArray+AWSMTLManipulationAdditions.h</key>
